@@ -44,8 +44,8 @@ Mi nombre es Angel Gonzalez. Soy un apasionado programador con una gran afición
 
 ### Servicios Web
 - API REST
-- Desarrollo, despliegue e integracion de microservicios
-- Desarrollo, despliegue e integracion de servicios monoliticas
+- Desarrollo, despliegue e integracion de aplicaciones web basadas microservicios
+- Desarrollo, despliegue e integracion de aplicaciones web monoliticas
 
 ### Base de datos
 - PostgreSQL
@@ -54,4 +54,7 @@ Mi nombre es Angel Gonzalez. Soy un apasionado programador con una gran afición
 ### Idiomas
 - Ingles B2+ (Certificacion EF)
 
-### Desarrollo de software
+### Metodologias agiles de software
+- Kanban
+- SCRUM
+
