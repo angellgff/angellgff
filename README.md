@@ -8,36 +8,22 @@ Mi nombre es Angel Gonzalez. Soy un apasionado programador con una gran afición
 
 
 ## Experiencia
-- ***2014-2015***: Programador, Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
+- ***2014-2015***: Analista de sistemas informaticos - Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
 
-- ***2018-2019***: Programador Backed, Soluciones Teranvo.
+- ***2018-2019***: Desarrollador BackEnd, Soluciones Teranvo - Venezuela.
 
-- ***2019-2021***: Analista de sistemas informaticos, Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
+- ***2019-2021***: Desarrollador BackEnd, Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
+
+- ***2021-2022***: Desarrollador BackEnd, Kuwai Systems - España (Remoto).
+
+- ***2022-2023***: Desarrollador BackEnd, Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
 
 ## Conocimientos, talentos y capacidades.
-### Herramientas de trabajo
-- Git
-- GitHub
-- Git Kraken
-- Jira
-- Integracion Discord - Git Kraken
 
-### Lenguajes de programacion
+### Lenguajes de programacion (Especializacion)
 - Python 3
-- Java 8
-- PHP 8
-- JavaScript (ECM 6)
-- Node js
-- Kotlin
 
-### Otros lenguajes
-- HTML 5
-- CSS 3
-- SQL
-
-### Frameworks
-- Vue.js
-- React.js
+### Frameworks (Especializacion)
 - Django
 - Django REST Framework
 - PHP Phalcon 4
@@ -58,3 +44,25 @@ Mi nombre es Angel Gonzalez. Soy un apasionado programador con una gran afición
 - Kanban
 - SCRUM
 
+### Herramientas de trabajo
+- Visual Studio Code
+- Git
+- GitHub
+- GitLab
+- Jira
+- Integracion Discord - GitLab
+
+### Otros lenguajes de programacion
+- Java 8
+- PHP 8
+- Type Script
+- JavaScript (ECM 6)
+- Node js
+- Kotlin
+- HTML 5
+- CSS 3
+- SQL
+
+### Otros frameworks
+- Vue 3
+- React
