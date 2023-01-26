@@ -1,47 +1,40 @@
 ## Sobre Mi
-Mi nombre es Angel Gonzalez. Soy un apasionado programador con una gran afición por la tecnología, me gusta ser creativo y tomar la iniciativa para trabajar en equipo y crear soluciones optimas, estoy dispuesto a aprender y enseñar lo necesario para dar fortaleza y crecimiento al equipo de trabajo.
+Mi nombre es Ángel González. Soy licenciado en informática con 6 años de experiencia laboral comprobable como desarrollador Backend, analista de sistemas, arquitecto de software y líder técnico para un equipo de 7 desarrolladores, he realizado proyectos monolíticos con django y django template, diseñado y desarrollado API REST con django REST framework, diseñado y desarrollado bases de datos Postgresql, así mismo, he desarrollado en modalidad full stack (Django REST, Vue.js, NGINX, linux, Postgresql) cumpliendo roles de backend, frontend, DevOps, entre otros.
 
 ## Educación
-- ***2014-2019***: Licenciado en Informatica.
+- ***2014-2019***: Licenciado en Informática.
 
 ## Intereses
-
+Actualmente me encuentro en busca de nuevos retos profesionales que me permitan ampliar mis conocimientos aplicando mis habilidades y capacidad de resolución de problemas para potenciar equipos de desarrollo de software.
 
 ## Experiencia
-- ***2014-2015***: Analista de sistemas informaticos - Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
+- ***2014-2015***: Analista de sistemas informaticos - Dirección de Ciencia y Tecnología de la gobernación del Estado Monagas - Venezuela.
 
 - ***2018-2019***: Desarrollador BackEnd, Soluciones Teranvo - Venezuela.
 
-- ***2019-2021***: Desarrollador BackEnd, Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
+- ***2019-2021***: Desarrollador BackEnd, Dirección de Ciencia y Tecnología de la gobernación del Estado Monagas - Venezuela.
 
 - ***2021-2022***: Desarrollador BackEnd, Kuwai Systems - España (Remoto).
 
-- ***2022-2023***: Desarrollador BackEnd, Direccion de Ciencia y Tecnologia de la gobernacion del Estado Monagas - Venezuela.
+- ***2022-2023***: Desarrollador BackEnd | Líder Técnico de desarrollo, TecFin212 - Venezuela.
 
 ## Conocimientos, talentos y capacidades.
 
-### Lenguajes de programacion (Especializacion)
+### Lenguajes de programación principales
 - Python 3
 
-### Frameworks (Especializacion)
+### Frameworks principales
 - Django
 - Django REST Framework
-- PHP Phalcon 4
-
-### Servicios Web
-- API REST
-- Desarrollo, despliegue e integracion de aplicaciones web basadas microservicios
-- Desarrollo, despliegue e integracion de aplicaciones web monoliticas
 
 ### Base de datos
 - PostgreSQL
-- MySQL
+- MongoDB
 
 ### Idiomas
 - Ingles B2+ (Certificacion EF)
 
-### Metodologias agiles de software
-- Kanban
+### Metodologías ágiles de desarrollo software
 - SCRUM
 
 ### Herramientas de trabajo
@@ -50,19 +43,26 @@ Mi nombre es Angel Gonzalez. Soy un apasionado programador con una gran afición
 - GitHub
 - GitLab
 - Jira
-- Integracion Discord - GitLab
+- Integración Discord - GitLab
+- DBeaber
+- Postman
 
-### Otros lenguajes de programacion
+### Lenguajes de programación secundarios
 - Java 8
 - PHP 8
+- Node js
 - Type Script
 - JavaScript (ECM 6)
-- Node js
 - Kotlin
-- HTML 5
-- CSS 3
+- HTML
+- CSS
 - SQL
 
-### Otros frameworks
+### Frameworks secundarios
 - Vue 3
+- Quasar
 - React
+- React native
+- Next
+- Angular
+- Laravel
