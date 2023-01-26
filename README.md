@@ -8,7 +8,7 @@ Mi nombre es Ángel González. Soy licenciado en informática con 6 años de exp
 Actualmente me encuentro en busca de nuevos retos profesionales que me permitan ampliar mis conocimientos aplicando mis habilidades y capacidad de resolución de problemas para potenciar equipos de desarrollo de software.
 
 ## Experiencia
-- ***2014-2015***: Analista de sistemas informaticos - Dirección de Ciencia y Tecnología de la gobernación del Estado Monagas - Venezuela.
+- ***2014-2015***: Analista de sistemas informáticos - Dirección de Ciencia y Tecnología de la gobernación del Estado Monagas - Venezuela.
 
 - ***2018-2019***: Desarrollador BackEnd, Soluciones Teranvo - Venezuela.
 
