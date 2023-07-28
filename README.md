@@ -1,14 +1,14 @@
 ## Sobre Mi
-Mi nombre es Ángel González. Soy licenciado en informática con 6 años de experiencia laboral comprobable como desarrollador Backend, analista de sistemas, arquitecto de software y líder técnico para un equipo de 7 desarrolladores, he realizado proyectos monolíticos con django y django template, diseñado y desarrollado API REST con django REST framework, diseñado y desarrollado bases de datos Postgresql, así mismo, he trabajado bajo la modalidad full stack (Django REST, Vue.js, NGINX, linux, Postgresql) cumpliendo roles de backend, frontend, DevOps, entre otros.
+Mi nombre es Ángel González. Soy licenciado en informática con mas de 7 años de experiencia laboral comprobable como desarrollador Backend, analista de sistemas, arquitecto de software y Tech Lead de un equipo de 7 desarrolladores, he realizado proyectos monolíticos con django y django template, diseñado y desarrollado API REST con django REST framework, diseñado y desarrollado bases de datos Postgresql, así mismo, he trabajado bajo la modalidad FullStack (Django REST, Vue.js, NGINX, linux, Postgresql) cumpliendo roles de backend, frontend, DevOps, entre otros.
 
 ## Educación
-- ***2014-2019***: Licenciado en Informática.
+- ***2012-2017***: Licenciado en Informática.
 
 ## Intereses
 Actualmente me encuentro en busca de nuevos retos profesionales que me permitan ampliar mis conocimientos aplicando mis habilidades y capacidad de resolución de problemas para potenciar equipos de desarrollo de software.
 
 ## Experiencia
-- ***2014-2015***: Analista de sistemas informáticos - Dirección de Ciencia y Tecnología de la gobernación del Estado Monagas - Venezuela.
+- ***2016-2017***: Analista de sistemas informáticos - Dirección de Ciencia y Tecnología de la gobernación del Estado Monagas - Venezuela.
 
 - ***2018-2019***: Desarrollador BackEnd, Soluciones Teranvo - Venezuela.
 
